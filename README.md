@@ -1,6 +1,6 @@
 # 9:15 - Group 4
 
-## Team Memebers
+## Team Members
 - Theophilus Bassaw
 - Sameeha Kamal
 - Mateo Chimbo
